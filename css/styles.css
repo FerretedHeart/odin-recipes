@@ -1,0 +1,17 @@
+* {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: lightgrey;
+}
+
+img {
+	height: 250px;
+}
+
+h1 {
+	color: darkblue;
+	text-align: center;
+}
+
+h2 {
+	color: darkcyan;
+}
